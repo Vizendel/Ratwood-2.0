@@ -83,18 +83,18 @@ Balloon Alert / Floating Text defines
 	/datum/species/demihuman,\
 	/datum/species/harpy,\
 	/datum/species/lamia,\
-	/datum/species/anthromorphsmall,\
-	/datum/species/kobold,\
-	/datum/species/tieberian,\
+    /datum/species/halforc,\
 
 #define RACES_SHUNNED \
 	/datum/species/dullahan,\
-	/datum/species/halforc,\
+	/datum/species/anthromorphsmall,\
 	/datum/species/goblinp,\
 	/datum/species/harpy,\
+    /datum/species/tieberian,\
 
 #define RACES_DESPISED \
 	/datum/species/dullahan,\
+    /datum/species/kobold,\
 
 #define RACES_CONSTRUCT \
 	/datum/species/construct/metal,\
