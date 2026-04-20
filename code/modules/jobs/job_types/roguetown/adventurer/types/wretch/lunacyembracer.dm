@@ -5,7 +5,6 @@
 	allowed_races = RACES_NO_CONSTRUCT
 	min_pq = 30 //less dogshit cryptids please
 	disallowed_races = list(
-		/datum/species/harpy,
 	)
 	outfit = /datum/outfit/job/roguetown/wretch/lunacyembracer
 	category_tags = list(CTAG_WRETCH)
